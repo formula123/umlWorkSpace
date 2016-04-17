@@ -1,0 +1,6 @@
+﻿"Name","Data Type","M","P","Comment"
+"scoreId","Integer","X","X","成绩ID"
+"scoreType","Integer","","","成绩类型，理论，实战"
+"totalScore","Integer","X","","总分"
+"operateDate","Date & Time","","","操作时间"
+"totalElapseTime","Characters (20)","","","花费时间"

@@ -1,0 +1,5 @@
+﻿"Name","Data Type","M","P","Comment"
+"ruleNo","Integer","X","X","规则ID"
+"key","Characters (50)","X","X","关键值"
+"detailPoint","Long characters (100)","","","具体内容"
+"value","Integer","","","分值"

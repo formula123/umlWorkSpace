@@ -1,0 +1,5 @@
+﻿"Name","Data Type","M","P","Comment"
+"tecNo","Characters (10)","X","X","教师工号"
+"registerTime","Date & Time","","","注册时间"
+"techName","Characters (20)","","","教师姓名"
+"pwd","Characters (20)","","","登陆密码"

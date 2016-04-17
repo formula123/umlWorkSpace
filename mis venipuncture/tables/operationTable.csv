@@ -1,0 +1,4 @@
+﻿"Name","Data Type","M","P","Comment"
+"operationId","Integer","X","","详细成绩ID"
+"scoreDetail","Long characters (300)","","","具体内容"
+"operationVideo","Characters (200)","","","操作视频地址"

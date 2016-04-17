@@ -1,0 +1,6 @@
+﻿"Name","Data Type","M","P","Comment"
+"stuNo","Number","X","X","学号"
+"registerTime","Date & Time","","","注册时间"
+"name","Characters (10)","","","姓名"
+"sex","Boolean","","","性别"
+"pwd","Characters (20)","","","登陆密码"
